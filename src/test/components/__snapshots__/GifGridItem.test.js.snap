@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruedas en GifGridItem Componente renderizado correctamente 1`] = `
+<div
+  align="center"
+  className="card animate__animated animate__pulse"
+>
+  <img
+    alt="Titulo"
+    src="https://localhost/imagen.jpg"
+  />
+</div>
+`;
